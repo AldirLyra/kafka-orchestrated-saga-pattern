@@ -116,8 +116,4 @@ show collections
 db.order.find()
 db.event.find()
 ```
-
-## 📌 **Sobre o Autor**
-👨‍💻 **[Aldir Lyra]**  
-🚀 Desenvolvedor Fullstack.
 ---
